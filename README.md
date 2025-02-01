@@ -41,7 +41,7 @@ This project demonstrates a simple chatbot using the Langchain library and Strea
 To run the Streamlit app, use the following command:
 ```sh
 streamlit run chat/chatdemo.py
-
+```
 ## Project Overview
 
 This project uses the following components:
